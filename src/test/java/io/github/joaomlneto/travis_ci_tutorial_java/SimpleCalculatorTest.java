@@ -24,6 +24,6 @@ public class SimpleCalculatorTest {
 	@Test
 	public void testDiv() {
 		SimpleCalculator calc = new SimpleCalculator();
-		assertEquals(calc.div(8, 2), 4);
+		assertEquals(calc.div(8, 2), 3);
 	}
 }
