@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/gfbangie/travis-ci-tutorial-java.svg?branch=master)](https://travis-ci.org/gfbangie/travis-ci-tutorial-java)
-[![Code Coverage](https://codecov.io/github/gfbangie/travis-ci-tutorial-java/coverage.svg)](https://codecov.io/gh/gfbangie/travis-ci-tutorial-java)
+[![Build Status](https://travis-ci.org/gfbangie/Assignment.svg?branch=master)](https://travis-ci.org/gfbangie/Assignment)
+[![Code Coverage](https://codecov.io/github/gfbangie/Assignment/coverage.svg)](https://codecov.io/gh/gfbangie/Assignment)
 
 # travis-ci-tutorial-java
 Just to learn how to use travis-ci in a java project!
